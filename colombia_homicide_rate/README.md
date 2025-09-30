@@ -15,7 +15,7 @@ Gather data and create a map of Colombia's crime rate by city and department wit
 
 <h2>Output:</h2>
 
-Some of these outputs will be in Spanish as I got the data from Spanish sources and thought it'd be relevant to cater to a Spanish speaking audience for these visuals.
+Some of these outputs will be in Spanish as I got the data from Spanish speaking sources and thought it'd be relevant to cater to a Spanish speaking audience for these visuals.
 <br />
 <br />
 The first map I made is with the most recent data I was able to find for the entire country. It maps the violent crime (measured by homicide rate) for each department.
