@@ -31,6 +31,8 @@ After conducting linear regression analysis to find correlations utilizing ggplo
 <br />
 <br />
 
+#### Gun Ownership
+
 My curiosity from my [RStudio Inequality vs Violence analysis](https://github.com/jameszil/R/blob/main/developmental_comparisons/README.md#inequality-vs-violence) led me to then plot a chart in Tableau to instead look at gun ownership instead of the rate of inequality by country to see if ownership of guns had anything to do with the rate of homicides in each country. I quickly saw that Countries with the highest homicide rates had relatively low gun ownership rates. In fact, they showed to have the same gun ownership as most countries with very low homicide rates. Countries with higher gun ownership rates have low to moderate levels of homicide, typically under 10 per 100,000 people. This continues to raise questions about how to approach the complex objective of reducing homicide rates around the globe.
 <br />
 <br />
