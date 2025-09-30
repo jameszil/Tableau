@@ -7,8 +7,8 @@ February 2022
 [Según el Instituto de Medicina Legal y Ciencias Forenses](https://es.wikipedia.org/wiki/Anexo:Departamentos_y_municipios_de_Colombia_por_tasa_de_homicidio_intencional#cite_note-MedicinaLegal-5)
 
 ### Background/Context:
-In 2022, I was planning a trip to Colombia. As several people warned me not to go and that it is a dangerous country, I wanted to see if certain areas would be safer than others to visit. As I searched the internet I found there were not many maps specific to Colombia that displayed data crime data.
-I had no way of showing people that I am not going to the more dangerous regions that are often negatively publicized in the media. How could I show I'm not naive about the risks of traveling abroad, while also showing that I am consciously traveling to safer regions? This led me to do my own research to get a feel for the layout of the country and validate my assumptions before visiting.
+In 2022, I was planning a trip to Colombia. As several people warned me not to go and that it is a dangerous country, I wanted to see if certain areas would be safer than others to visit. As I searched the internet I found there were not many maps specific to Colombia that displayed crime data.
+I had little evidence and almost no way of showing people that I am not going to the more dangerous regions that are often negatively publicized in the media. How could I show I'm not naive about the risks of traveling abroad, while also showing that I am consciously traveling to safer regions? This led me to do my own research to get a feel for the layout of the country and validate my assumptions before visiting.
 
 ### Objective:
 Gather data and create a map of Colombia's crime rate by city and department with available data. Conduct research to see if my maps make sense according to the general sentiment of cities.
