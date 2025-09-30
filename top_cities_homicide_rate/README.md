@@ -34,6 +34,7 @@ I also opted to create outputs in Spanish as I got the data from Spanish sources
 <br />
 <img src="https://github.com/jameszil/pictures/blob/main/Tableau/50%20Ciudades%20Principales%20por%20Tasa%20de%20Homicidio%20(2021)%20normal.png?raw=true" height="110%" width="110%" alt="Steps"/>
 <br />
+[See the Memphis Homicide Heatmap I made with QGIS](https://github.com/jameszil/GIS/tree/main/memphis_homicide_heatmap)
 
 
 
