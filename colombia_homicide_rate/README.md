@@ -15,6 +15,8 @@ Gather data and create a map of Colombia's crime rate by city and department wit
 
 <h2>Output:</h2>
 
+Colombia Homicide Rate by City, Department, and % change over 5 years (2010-2015, 2016, 2019)
+
 Some of these outputs will be in Spanish as I got the data from Spanish speaking sources and thought it'd be relevant to cater to a Spanish speaking audience for these visuals.
 <br />
 <br />
