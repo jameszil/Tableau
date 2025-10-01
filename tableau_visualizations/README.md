@@ -1,15 +1,21 @@
-<h1>Visually Appealing Insightful Interactive Dashboards</h1>
+<h1>More Tableau Visualizations</h1>
 
-#### February 2022
+#### Human Development Index (HDI) by State
+<img src="https://github.com/jameszil/pictures/blob/main/Tableau/hdi%20state%20map.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<br />
+<img src="https://github.com/jameszil/pictures/blob/main/Tableau/hdi%20state.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<br />
+
+#### US Cities by Homicide Rate 2020
+<img src="https://github.com/jameszil/pictures/blob/main/Tableau/uscities%20hom.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<br />
+
+#### Mexico Homicide Rate by State 2020
 <p align="left">
-<img src="https://github.com/jameszil/pictures/blob/main/Tableau/Dashboard%201.png?raw=true" height="100%" width="100%" alt="Steps"/>
-<br />
+<img src="https://github.com/jameszil/pictures/blob/main/Tableau/Mexico%20hom%202020.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
 
-#### April 2022
-<img src="https://github.com/jameszil/pictures/blob/main/Tableau/Dashboard%202.png?raw=true" height="100%" width="100%" alt="Steps"/>
+#### Latin America GDP per Capita
+<img src="https://github.com/jameszil/pictures/blob/main/Tableau/gdppercapita%20car%20latam.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<br />
 
-#### August 2022
-<img src="https://github.com/jameszil/pictures/blob/main/Tableau/Top%2050%20Cities%20by%20Homicide%20Rate%20(2021).png?raw=true" height="100%" width="100%" alt="Steps"/>
-<br />
-<br />
