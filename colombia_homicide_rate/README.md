@@ -47,7 +47,7 @@ Finally, I wanted to see the list of cities and the scale to show the extent eac
 <br />
 <img src="https://github.com/jameszil/pictures/blob/main/Tableau/col15.png?raw=true" height="70%" width="70%" alt="Steps"/>
 <br />
-This was great to see Medellin and suburbs of Medellin like Envigado and Itagüí having the largest decrease in crime. From this data I was able to confidentally tell people leading up to my trip the region I'm traveling to is improving over time.
+This was great to see Medellín and suburbs of Medellín like Envigado and Itagüí having the largest decrease in crime. From this data I was able to confidentally tell people leading up to my trip the region I'm traveling to is improving over time.
 <br />
 
 Lastly, I made a visualization that shows crime in city boundaries instead of represented as dots in GeoDa, a spatial data analysis software.
