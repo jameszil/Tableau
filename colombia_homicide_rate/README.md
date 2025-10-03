@@ -7,8 +7,8 @@ February 2022
 [Según el Instituto de Medicina Legal y Ciencias Forenses](https://es.wikipedia.org/wiki/Anexo:Departamentos_y_municipios_de_Colombia_por_tasa_de_homicidio_intencional#cite_note-MedicinaLegal-5)
 
 ### Background/Context:
-In 2022, I was planning a trip to Colombia. As several people warned me not to go and that it is a dangerous country, I wanted to see if certain areas would be safer than others to visit. As I searched the internet I found there were not many maps specific to Colombia that displayed crime data.
-I had little evidence and almost no way of showing people that I am not going to the more dangerous regions that are often negatively publicized in the media. How could I show I'm not naive about the risks of traveling abroad, while also showing that I am consciously traveling to safer regions? This led me to do my own research to get a feel for the layout of the country and validate my assumptions before visiting.
+In 2022, I was planning a trip to Colombia. As several people warned me that it is a dangerous country, I wanted to see if certain areas would be safer to visit than others. As I searched the internet I found there were not many maps specific to Colombia that displayed crime data.
+I had little evidence and almost no way of showing people that I am not going to the more dangerous regions that are often negatively publicized in the media. How could I show I'm not naive about the risks of traveling abroad, while also showing that I am consciously traveling to safer regions? This led me to do my own research to get a feel for the layout of the country and validate my assumptions about particular areas before visiting.
 
 ### Objective:
 Gather data and create a map of Colombia's crime rate by city and department with available data. Conduct research to see if my maps make sense according to the general sentiment of cities.
@@ -36,7 +36,7 @@ The datasets vary significantly in this study, and we can see a very different o
 <br />
 <img src="https://github.com/jameszil/pictures/blob/main/Tableau/col%20mayor16.png?raw=true" height="80%" width="80%" alt="Steps"/>
 <br />
-To counter this change, I calculated the percent change in crime over a 5 year period. This trend would show me if a city's crime is increasing or decreasing over a longer period of time.
+To address this rapid shift, I calculated the percent change in crime over a 5 year period. This trend will reveal if a city's crime is increasing or decreasing over a longer period of time.
 While the regular homicide rate is a good indicator of overall crime, the percent change calulcation will help to determine the stability of cities and regions.
 <br />
 <img src="https://github.com/jameszil/pictures/blob/main/Tableau/colpct.png?raw=true" height="80%" width="80%" alt="Steps"/>
@@ -52,6 +52,7 @@ This was great to see Medellín and suburbs of Medellín like Envigado and Itag�
 
 Lastly, I made a visualization that shows crime in city boundaries instead of represented as dots in GeoDa, a spatial data analysis software.
 <br />
-<img src="https://github.com/jameszil/pictures/blob/main/Tableau/Colombia%20Ciudades%20principales%20(m%C3%A1s%20de%2075%20000%20habitantes)%20tasa%20de%20homicidio%202015%20edit.png?raw=true" height="80%" width="80%" alt="Steps"/>
+<br />
+<img src="https://github.com/jameszil/pictures/blob/main/Tableau/Colombia%20Ciudades%20principales%20(m%C3%A1s%20de%2075%20000%20habitantes)%20tasa%20de%20homicidio%202015%20edit.png?raw=true" height="70%" width="70%" alt="Steps"/>
 
 
